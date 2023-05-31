@@ -1,4 +1,4 @@
-# Despesas-Financeiras
+# :money_with_wings: Despesas-Financeiras
 
 >- Este trabalho, envolve a modelagem e desenvolvimento de um aplicativo mobile para controle de despesas financeiras destinado a pessoas físicas.
 Ele foi realizado em equipe, para a matéria de Desenvolvimento de Software - FATEC Campinas 2023 - 2º Semestre.
